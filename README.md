@@ -1,10 +1,9 @@
 # Archaeopteryx
 Twitter scraper  
 
+![Archaropteryx8MB-800](https://user-images.githubusercontent.com/22214754/200165317-7e67ac19-a75f-40e9-8469-814e4beb3e05.gif)  
 
-![archaeopteryx-gui-11-6-22](https://user-images.githubusercontent.com/22214754/200164248-1295ced8-2546-4063-bf39-58885d2bc6a9.gif)  
-
-# Developed with:  
+# Developed with:    
 
 ![github-linux-logo-kernel-corn](https://user-images.githubusercontent.com/22214754/196063512-495e0624-c344-4b32-9507-0f4fbc85a633.png)      
 
