@@ -1,5 +1,11 @@
 # Archaeopteryx
-Twitter scraper  
+Bird Tracking App  
 
+![Archaeopteryx_gui_12-26-22](https://user-images.githubusercontent.com/22214754/209586299-a7dc984c-f199-4de1-b59a-f45826716d2c.gif)  
 
-![archaeopteryx-gui-11-6-22](https://user-images.githubusercontent.com/22214754/200164248-1295ced8-2546-4063-bf39-58885d2bc6a9.gif)  
+# Developed with:    
+
+# **Database:**        
+![sqlitefg](https://user-images.githubusercontent.com/22214754/179894516-3059e142-fb38-40bc-a32c-65500a223eb1.png)    
+https://www.sqlite.org/index.html    
+https://sqlitestudio.pl  
