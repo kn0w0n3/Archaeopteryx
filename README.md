@@ -1,7 +1,7 @@
 # Archaeopteryx
 Bird Tracking App  
 
-![Archaeopteryx_gui_12-26-22](https://user-images.githubusercontent.com/22214754/209586299-a7dc984c-f199-4de1-b59a-f45826716d2c.gif)  
+![Archaeopteryx_gui_12-26-22_2](https://user-images.githubusercontent.com/22214754/209595723-39503b92-4e5a-426f-9131-ba3afeb91fc0.gif)  
 
 # Developed with:    
 
