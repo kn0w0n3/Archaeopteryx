@@ -8,4 +8,7 @@ Bird Tracking App
 # **Database:**        
 ![sqlitefg](https://user-images.githubusercontent.com/22214754/179894516-3059e142-fb38-40bc-a32c-65500a223eb1.png)    
 https://www.sqlite.org/index.html    
-https://sqlitestudio.pl  
+https://sqlitestudio.pl 
+
+# **Resources:**  
+https://www.citizenscience.gov/ebird-bird-data/#  
